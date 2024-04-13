@@ -42,7 +42,7 @@ Unsplash API: Used to dynamically change the background image based on the searc
 
 **Author:**
 
-This weather app was created by [Your Name].
+This weather app was created by [Ishika Srivastava].
 
 **License:**
 This project is licensed under the MIT License. See the LICENSE file for details.
